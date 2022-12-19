@@ -45,6 +45,15 @@ ja:
       timeout: セッションがタイムアウトしました。もう一度ログインしてください。
       unauthenticated: ログインもしくはアカウント登録してください。
       unconfirmed: メールアドレスの本人確認が必要です。
+    
+    # ダッシュボードを追記
+    dash_boards:
+      show:
+        article_index: 記事一覧
+        edit: 編集
+        sign_out: ログアウト
+    # ここまで
+    
     mailer:
       confirmation_instructions:
         action: メールアドレスの確認
