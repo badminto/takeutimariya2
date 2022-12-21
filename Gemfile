@@ -64,3 +64,5 @@ gem 'devise-bootstrap-views', '~> 1.0'
 
 gem 'net-smtp'
 gem 'jquery-rails'
+
+gem 'rails-i18n', '~> 6.0'
